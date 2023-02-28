@@ -2,7 +2,7 @@
   "name": "teea288",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/tri218138/teea288/",
+  "homepage": "https://tri218138.github.io/teea288/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
